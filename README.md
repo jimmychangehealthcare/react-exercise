@@ -1,6 +1,6 @@
 # Instructions
 
-Link to finished app: https://react-exercise.now.sh/
+Link to finished app: https://react-exercise4.netlify.app/
 
 Your task is to build a "Saved Search" functionality for US cities in JavaScript and React. See the finished app in the link above for how the app should function and look like.
 
