@@ -10,13 +10,13 @@ You have freedom to implement this app using any component tree structure and hi
 
 - Main Requirements:
   - [ ] App dynamically shows list of US cities with city's name, country, and number of likes
+  - [ ] Cities are broken down into chunks based on their starting alphabet, and should be ordered alphabetically
   - [ ] Next to each city is a checkbox that user can check if they want to move the city to "My Saved Search" queue, with the queue displaying the number of cities stored in it. (Button to move to "My Saved Search" queue)
-  - [ ] From my Saved Search, user can delete the city from the queue which will be then transferred back to the list of all cities.
+  - [ ] From my Saved Search, user can delete the city from the queue which will be then transferred back to the list of all cities
 - Bonus:
-  - [ ] Accomplish the above requirements with Redux.
-  - [ ] Categorize
-  - [ ] App dynamically shows list of US cities whose names have partial match to the user search input.
-  - [ ] Implement frontend tests using Jest, React Testing Library, and/or Enzyme.
+  - [ ] Accomplish the above requirements with Redux
+  - [ ] App dynamically shows list of US cities whose names have partial match to the user search input
+  - [ ] Implement frontend tests using Jest, React Testing Library, and/or Enzyme
 
 ## Notes
 
